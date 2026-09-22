@@ -1,16 +1,21 @@
-## Hi there 👋
+I'm Vaishak S
 
-<!--
-**vaishak-io/vaishak-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a cybersecurity trainee in the CICSA program at RedTeam Hacker Academy in Trivandrum, focusing on defensive security, SOC operations, and incident response. 
 
-Here are some ideas to get you started:
+Outside of coursework, I spend my time running simulated attacks in local labs, analyzing PCAPs, and writing small Python tools to automate repetitive triage tasks. I also maintain a dedicated Raspberry Pi setup configured for network mapping and wireless auditing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+➤ Areas of Focus
+- Log triage, SIEM correlation, and alert investigation
+- Network traffic analysis and packet inspection (Wireshark)
+- Vulnerability assessment and defensive countermeasures
+- Linux system administration and Bash/Python scripting
+
+➤ Current Projects
+- Raspberry Pi Pentest Station: A lightweight, portable hardware build used for wireless auditing and network reconnaissance.
+- SOC Analysis Labs: Investigating simulated adversary tactics using network captures and system event logs.
+- Security Automation: Small Python scripts built for log parsing and workflow automation.
+
+➤ Contact
+- LinkedIn: https://www.linkedin.com/in/-vaishak-s-
+- GitHub: https://github.com/vaishak-io
+- Email: karthivaishak95@gmail.com
